@@ -1,0 +1,1 @@
+# caratinga-comercio
