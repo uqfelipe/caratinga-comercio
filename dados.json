@@ -1,6 +1,13 @@
 {
-  "banner": "",
-  "photos": [],
+  "banner": "https://i.ibb.co/G9s5hN4/banner.png",
+  "photos": [
+    "https://i.ibb.co/JttnW1v/412449bd3533.jpg",
+    "https://i.ibb.co/XFLX8tz/59db188e580c.jpg",
+    "https://i.ibb.co/CM5b0YB/421a244917ff.jpg",
+    "https://i.ibb.co/zb0fqfQ/e8e48119f21a.jpg",
+    "https://i.ibb.co/L1zkYV2/ab85d48d0c01.jpg",
+    "https://i.ibb.co/TqkH0HP/84d4ba1e4aea.jpg"
+  ],
   "hours": {
     "Domingo": {
       "open": "09:01",
